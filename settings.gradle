@@ -1,0 +1,5 @@
+include ':app'
+include ':androidvisibilityextensions'
+include ':visibility-lint'
+
+rootProject.name = "Demo"
